@@ -1,9 +1,12 @@
 console.log("fjnnfjjnfd");
 
-let sum = "*";
+// let sum = "*";
 
-for (let i = 0; i < 5; i++) {
-  sum = sum + "**";
-  sum[0] = "*";
-  console.log(sum);
-}
+// for (let i = 0; i < 5; i++) {
+//   sum = sum + "**";
+//   sum[0] = "*";
+//   console.log(sum);
+// }
+
+console.log("   *   ");
+console.log("   *   ");
